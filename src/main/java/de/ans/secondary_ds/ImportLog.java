@@ -1,4 +1,4 @@
-package de.ans;
+package de.ans.secondary_ds;
 
 import java.io.Serializable;
 import javax.persistence.*;

@@ -1,4 +1,4 @@
-package de.ans;
+package de.ans.primary_ds;
 
 import java.io.Serializable;
 import javax.persistence.*;
@@ -10,7 +10,7 @@ import java.util.Date;
  * 
  */
 @Entity
-//@Table(name="access_tbl_HP_Daten")
+@Table(name="access_tbl_hp_daten")
 public class Access_tbl_HP_Daten implements Serializable {
 	private static final long serialVersionUID = 1L;
 
